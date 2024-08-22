@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (UsbHidVS.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ServerUsbHid.cpp
+C:\Slermo's files\Voenmech\code_for_study\sem_4\DinoGame\UsbHidVS\UsbHidVS\ServerUsbHid.cpp(1,1): warning C4005: 'WIN32': macro redefinition
+C:\Slermo's files\Voenmech\code_for_study\sem_4\DinoGame\UsbHidVS\UsbHidVS\ServerUsbHid.cpp : message : see previous definition of 'WIN32'
+C:\Slermo's files\Voenmech\code_for_study\sem_4\DinoGame\UsbHidVS\UsbHidVS\ServerUsbHid.cpp(102,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Slermo's files\Voenmech\code_for_study\sem_4\DinoGame\UsbHidVS\UsbHidVS\ServerUsbHid.cpp(112,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Slermo's files\Voenmech\code_for_study\sem_4\DinoGame\UsbHidVS\UsbHidVS\ServerUsbHid.cpp(44,10): warning C4101: 'wstr': unreferenced local variable
+C:\Slermo's files\Voenmech\code_for_study\sem_4\DinoGame\UsbHidVS\UsbHidVS\ServerUsbHid.cpp(46,6): warning C4101: 'i': unreferenced local variable
+C:\Slermo's files\Voenmech\code_for_study\sem_4\DinoGame\UsbHidVS\UsbHidVS\ServerUsbHid.cpp(99,8): warning C4101: 'k': unreferenced local variable
+C:\Slermo's files\Voenmech\code_for_study\sem_4\DinoGame\UsbHidVS\UsbHidVS\ServerUsbHid.cpp(99,11): warning C4101: 'j': unreferenced local variable
+C:\Slermo's files\Voenmech\code_for_study\sem_4\DinoGame\UsbHidVS\UsbHidVS\ServerUsbHid.cpp(276,6): warning C4101: 'revx': unreferenced local variable
+C:\Slermo's files\Voenmech\code_for_study\sem_4\DinoGame\UsbHidVS\UsbHidVS\ServerUsbHid.cpp(276,12): warning C4101: 'revy': unreferenced local variable
+  UsbHidVS.vcxproj -> C:\Slermo's files\Voenmech\code_for_study\sem_4\DinoGame\UsbHidVS\Debug\ServerUsbHid.exe
